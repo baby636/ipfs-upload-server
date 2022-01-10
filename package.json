@@ -30,7 +30,7 @@
   "dependencies": {
     "@psf/bch-js": "4.15.19",
     "@textile/hub": "^5.2.0",
-    "apidoc": "^0.23.0",
+    "apidoc": "^0.50.0",
     "axios": "^0.21.1",
     "bch-util": "^1.2.5",
     "bcryptjs": "^2.4.3",
@@ -51,7 +51,7 @@
     "mongoose": "^5.7.5",
     "p-retry": "^4.2.0",
     "passport-local": "^1.0.0",
-    "slp-cli-wallet": "^2.2.1",
+    "slp-cli-wallet": "^3.1.0",
     "tus-node-server": "^0.3.2",
     "winston": "^3.2.1",
     "winston-daily-rotate-file": "^4.0.0"
