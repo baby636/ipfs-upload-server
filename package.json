@@ -38,7 +38,7 @@
     "jsonwebtoken": "^8.3.0",
     "jwt-bch-lib": "^1.2.1",
     "kcors": "^2.2.1",
-    "koa": "^2.5.0",
+    "koa": "^3.0.1",
     "koa-bodyparser": "^4.2.0",
     "koa-convert": "^1.2.0",
     "koa-generic-session": "^2.0.1",
